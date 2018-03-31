@@ -5,9 +5,12 @@
   "content": {
     "sloka": [
       "सर्वा पूर्वम् इयम् येषाम् आसीत् कृत्स्ना वसुंधरा ।",
-      "प्रजपतिम् उपादाय नृपाणम् जय शालिनाम् ॥१-५-१॥"
+      "प्रजापतिम् उपादाय नृपाणम् जय शालिनाम् ॥१-५-१॥"
     ],
     "padachhed": [],
-    "anvaya": []
+    "anvaya": ["सर्वा कृत्स्ना इयम् वसुंधरा प्रजापतिम् उपादाय येषाम् नृपाणम् जय शालिनाम् पूर्वम् आसीत्"]
+  },
+  "anuvada": {
+    "en": ["Once upon a time all of this earth (in entirety with its islands) was under victorious kings starting from the Prajapati."]
   }
 }
