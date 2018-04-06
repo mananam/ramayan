@@ -5,9 +5,12 @@
   "content": {
     "sloka": [
       "न अषडंग वित् न अस्ति न अव्रतो न असहस्रदः ।",
-      "न दीनः क्षिप्त चित्तओ वा व्यथितो वा अपि कश्चन ॥१-६-१५॥"
+      "न दीनः क्षिप्त चित्तो वा व्यथितो वा अपि कश्चन ॥१-६-१५॥"
     ],
     "padachhed": [],
-    "anvaya": []
+    "anvaya": ["न अषडंगवित् न अस्ति न अव्रतो न असहस्रदः न दीनः क्षिप्त चित्तो वा व्यथितो वा अपि कश्चन"]
+  },
+  "anuvada": {
+    "en": ["There were none unversed with six parts of vedas (Siksha, Vyakarana, Chhanda, Nirukta, Jyotisha and Kalpa), none without rituals practice, none who won't donate in thousands, nor pitiable, frickle minded, and distressed (brahmins) anywhere."]
   }
 }
